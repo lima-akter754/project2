@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header start  */
+.header{
+    background-color: rgb(133, 131, 128);
+    padding: 5px;
+}
+.header-logo span i{
+
+margin-top: 20px;
+    
+    font-size: 30px;
+}
+.header-slider{}
+.header-slider ul{ 
+    text-align: right;
+    margin-bottom: 0;
+     
+    
+}
+.header-slider ul li{
+    display: inline-block;
+    list-style: none;
+    margin-left: -4px;
+
+
+}
+.header-slider ul li a{
+    display: block;
+    color: white;
+    font-size: 15px;
+    transition: 1s;
+    line-height: 40px;
+    padding:0px 30px;
+    border-right: 1px solid floralwhite;
+}
+.header-slider ul li a:hover{
+    background-color: rgb(68, 66, 66);}
+    /* header end  */
+
+    /* banner start  */
+    
+.banner{
+background-image: url(./img/download\ \(1\).jfif);
+padding: 150px 0;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.banner-text{}
+.banner-text h3{
+color: rgb(236, 216, 236);
+    background-color: rgb(34, 59, 1);
+
+display: inline-block;
+box-shadow: 10px;
+border-radius: 8px;
+}
+.banner-text p{
+    font-size: 20px;
+    background-color: rgb(34, 59, 9);
+    margin-top: 20px;
+    color: lemonchiffon;
+    padding:8px;
+    border-radius: 10px;
+    box-shadow: 5px;
+    
+}
+    /* banner end  */
+
+    /* about start  */
+.about{
+    background-color: lightgrey;
+}
+.about-text h1{}
+.about-text p{}
+
+/* aout end  */
+
+/* service start  */
+
+.service{
+    background-color: rgb(197, 199, 202);    
+}
+.service span{
+    background-color: rgb(75, 48, 139);
+width: 60px;
+height:60px;
+margin: auto;
+font-size: 20px;
+line-height: 60px;
+border-radius: 25px 0 25px 0;
+    
+}
+/* service end  */
+
+/* contact start  */
+.contact{
+}
+.contact-form{
+    margin-left:200px;
+    width: 100%;
+}
+.contact{
+     background-color: rgb(191, 194, 194);
+ }
+/* contact end  */
+
+/* news-start  */
+.news-section{
+
+    background-color: rgb(233, 223, 223);
+}
+.news-section img{
+    max-width: 100%;
+}
+
+.news-sidebar ul{
+    list-style: none;
+    padding-left: 0px;
+    font-size: 18px;
+}
+.news-sidebar h1{
+    background-color: rgb(138, 132, 132);
+    padding: 10px;
+    border-radius: 7px;
+    
+}
+.news-sidebar li{
+    background-color: rgb(194, 181, 176);
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+/* news end  */
+
+/* footer start  */
+.footer{
+    background-color: rgb(14, 13, 13);
+    color: white;
+}
+.footer p{
+font-size: 17px;
+}
+.footer a{
+ font-size: 22px;
+ margin-left: 15px;}
+ 
+/* footer end  */
+
